@@ -7,4 +7,4 @@
 - Gladiator [IMDB](https://www.imdb.com/es-es/title/tt0172495/)
 - Memento[IMBD](https://www.imdb.com/es-es/title/tt0209144/)
 - 
-![Gladiator portada]{./gladiator.webp}
+![Gladiator portada](./gladiator.webp)
