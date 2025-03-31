@@ -6,5 +6,5 @@
 - Anora [IMDB](https://www.imdb.com/es-es/title/tt28607951/)
 - Gladiator [IMDB](https://www.imdb.com/es-es/title/tt0172495/)
 - Memento[IMBD](https://www.imdb.com/es-es/title/tt0209144/)
-- 
+  
 ![Gladiator portada](./gladiator.webp)
